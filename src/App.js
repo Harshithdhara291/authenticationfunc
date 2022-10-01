@@ -7,8 +7,6 @@ import NotFound from './components/NotFound'
 
 import './App.css'
 
-/*  */
-
 const App = () => (
   <BrowserRouter>
     <Switch>
